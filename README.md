@@ -41,11 +41,13 @@
 
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
 
-<h3 align="center">Hobbies & Interests</h3>
-    <p align="center">Playing Video Games 🎮</p>
-    <p align="center">Reading Comics 📚</p>
-    <p align="center">Capturing The Flags 🏳️</p>
-
+<div align="center">
+  <a href="https://ludd.netlify.app" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Visit My Portfolio
+    </button>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ludgit/count.svg?"  />
