@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://ludd.netlify.app" target="_blank">
-    <button style="padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: 2px solid #0056b3; border-radius: 5px; cursor: pointer; box-shadow: 0px 4px 8px rgba(0, 123, 255, 0.6);">
       Visit My Portfolio
     </button>
   </a>
