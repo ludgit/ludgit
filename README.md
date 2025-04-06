@@ -42,13 +42,9 @@
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
 
 <h3 align="center">Hobbies & Interests</h3>
-<div align="center">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>Playing Video Games 🎮</li>
-    <li>Reading Comics 📚</li>
-    <li>Capturing The Flags 🏳️</li>
-  </ul>
-</div>
+    <p align="center">Playing Video Games 🎮</p>
+    <p align="center">Reading Comics 📚</p>
+    <p align="center">Capturing The Flags 🏳️</p>
 
 
 <div align="center">
