@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Musthofa Kamaluddin and I'm a Web Developer, from Gresik, Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Musthofa Kamaluddin and I'm a Web Developer, from Indonesia</h2>
 
 <p align="center">I'm passionate about creating web applications that solve real-world problems. I specialize in JavaScript, React, and Python, and I love learning new technologies!</p>
 
@@ -40,10 +40,6 @@
 <p align="center">When I'm not coding, you can find me exploring new tech trends or enjoying a cup of coffee!</p>
 
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
-
-<div align="center">
-[**Visit My Portfolio**](https://ludd.netlify.app)
-</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ludgit/count.svg?"  />
