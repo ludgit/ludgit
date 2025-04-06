@@ -41,6 +41,16 @@
 
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
 
+<h3 align="center">Hobbies & Interests</h3>
+<div align="center">
+  <ul>
+    <li>Playing Video Games 🎮</li>
+    <li>Reading Comics 📚</li>
+    <li>Capturing The Flags 🏳️</li>
+  </ul>
+</div>
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ludgit/count.svg?"  />
 </div>
