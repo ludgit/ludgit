@@ -42,10 +42,18 @@
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
 
 <div align="center">
-  <a href="https://ludd.netlify.app" target="_blank" style="font-size: 24px; color: #4CAF50; text-decoration: none; font-weight: bold; background-color: #333; padding: 10px 20px; border-radius: 5px; box-shadow: 0px 4px 8px rgba(76, 175, 80, 0.6);">
+  <a href="https://ludd.netlify.app" target="_blank" style="font-size: 24px; font-weight: bold; color: #fff; text-decoration: none; border-bottom: 2px solid #4CAF50; animation: animateText 2s ease-in-out infinite;">
     Visit My Portfolio
   </a>
 </div>
+
+<style>
+  @keyframes animateText {
+    0% { color: #fff; }
+    50% { color: #4CAF50; }
+    100% { color: #fff; }
+  }
+</style>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ludgit/count.svg?"  />
