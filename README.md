@@ -38,7 +38,8 @@
 
 ###
 <p align="center">When I'm not coding, you can find me exploring new tech trends or enjoying a cup of coffee!</p>
-###
+
+<p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ludgit/count.svg?"  />
