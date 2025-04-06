@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋! My name is Musthofa Kamaluddin and I'm a Web Developer, from Gresik, Indonesia</h2>
 
+<p align="center">I'm passionate about creating web applications that solve real-world problems. I specialize in JavaScript, React, and Python, and I love learning new technologies!</p>
+
 ###
 
 <br clear="both">
@@ -34,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+###
+<p align="center">When I'm not coding, you can find me exploring new tech trends or enjoying a cup of coffee!</p>
 ###
 
 <div align="center">
